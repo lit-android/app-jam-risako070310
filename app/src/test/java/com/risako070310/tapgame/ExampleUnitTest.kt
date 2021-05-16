@@ -1,4 +1,4 @@
-package app.myoji.nickname.appjam
+package com.risako070310.tapgame
 
 import org.junit.Test
 
