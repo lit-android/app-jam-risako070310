@@ -9,7 +9,7 @@ android {
     compileSdkVersion 30
 
     defaultConfig {
-        applicationId "app.myoji.nickname.appjam"
+        applicationId "com.risako070310.tapgame"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
